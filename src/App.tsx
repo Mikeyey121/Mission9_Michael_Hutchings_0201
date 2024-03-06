@@ -3,8 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-
-  
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p> Hello, Michael was here. </p>
       </header>
     </div>
   );
